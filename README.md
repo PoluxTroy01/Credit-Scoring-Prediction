@@ -8,3 +8,7 @@ The independent variables will be transformed into 1s and 0s and by calculating 
 New variables were created after the calculation of the WoE and IV.
 Trained the model with all the variables and then selected the most important ones by getting their p-values, then retrained the model.
 Validated the model, got the ROC & AUC score, the Gini coefficient, and the Kolmogorov-Smirnov value.
+
+1.- Peso_Evidencia.ipynb
+2.- Model-LR.ipynb
+3.- Final_Model.ipynb
